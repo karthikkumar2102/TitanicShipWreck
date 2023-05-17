@@ -1,2 +1,0 @@
-# TitanicShipWreck
-The Titanic ShipWreck
